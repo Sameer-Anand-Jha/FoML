@@ -1,0 +1,4 @@
+**/__pycache__/
+**/venv/
+fine-tuned-gpt2
+.env
